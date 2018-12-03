@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode001.cpp" />
+    <ClCompile Include="LeetCode007.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProblemSelect.h" />

@@ -1,2 +1,2 @@
 #pragma once
-#define LeetCode001
+#define LeetCode007
