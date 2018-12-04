@@ -13,18 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="LeetCode001.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="LeetCode007.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <Filter Include="源文件\Easy">
+      <UniqueIdentifier>{5edcf62d-00c1-4c0e-a3cc-5424f71d00fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ProblemSelect.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Easy\LeetCode001.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode007.cpp">
+      <Filter>源文件\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode013.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

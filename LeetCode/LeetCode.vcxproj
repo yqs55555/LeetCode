@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LeetCode001.cpp" />
-    <ClCompile Include="LeetCode007.cpp" />
+    <ClInclude Include="ProblemSelect.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ProblemSelect.h" />
+    <ClCompile Include="Easy\LeetCode001.cpp" />
+    <ClCompile Include="Easy\LeetCode007.cpp" />
+    <ClCompile Include="Easy\LeetCode009.cpp" />
+    <ClCompile Include="Easy\LeetCode013.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

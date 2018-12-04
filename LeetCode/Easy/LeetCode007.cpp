@@ -1,6 +1,5 @@
 #include "../ProblemSelect.h"
 #ifdef LeetCode007
-#include <iostream>
 int reverse(int x) 
 {
 	int res = 0;
