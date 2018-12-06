@@ -146,6 +146,10 @@
     <ClCompile Include="Easy\LeetCode007.cpp" />
     <ClCompile Include="Easy\LeetCode009.cpp" />
     <ClCompile Include="Easy\LeetCode013.cpp" />
+    <ClCompile Include="Easy\LeetCode014.cpp" />
+    <ClCompile Include="Easy\LeetCode020.cpp" />
+    <ClCompile Include="Easy\LeetCode021.cpp" />
+    <ClCompile Include="Easy\LeetCode026.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
