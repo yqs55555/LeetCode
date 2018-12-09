@@ -152,6 +152,8 @@
     <ClCompile Include="Easy\LeetCode026.cpp" />
     <ClCompile Include="Easy\LeetCode027.cpp" />
     <ClCompile Include="Easy\LeetCode028.cpp" />
+    <ClCompile Include="Easy\LeetCode035.cpp" />
+    <ClCompile Include="Easy\LeetCode038.cpp" />
     <ClCompile Include="Medium\LeetCode002.cpp" />
     <ClCompile Include="Medium\LeetCode003.cpp" />
   </ItemGroup>
