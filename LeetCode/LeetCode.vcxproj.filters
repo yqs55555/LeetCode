@@ -50,9 +50,6 @@
     <ClCompile Include="Easy\LeetCode027.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Easy\LeetCode028.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Medium\LeetCode002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -63,6 +60,21 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Easy\LeetCode038.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode028_Star.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode053_Star.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode058.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode066.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode067.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
