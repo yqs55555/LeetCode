@@ -8,4 +8,4 @@ static const auto io_sync_off = []()
 	std::cin.tie(nullptr);
 	return nullptr;
 }();
-#define LeetCode067
+#define LeetCode070
