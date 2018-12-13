@@ -83,5 +83,11 @@
     <ClCompile Include="Easy\LeetCode070.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\LeetCode083.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode088.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

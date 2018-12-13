@@ -2,7 +2,7 @@
 #ifdef LeetCode070
 /**
  * \brief 此题是一个经典的动态规划(DP)问题，此题的解为f(n) = f(n - 1) + f(n - 2)
- * \n 第几层楼梯
+ * \param n 第几层楼梯
  * \return 
  */
 int climbStairs(int n) 
