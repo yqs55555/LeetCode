@@ -104,5 +104,14 @@
     <ClCompile Include="Medium\LeetCode006.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\LeetCode008.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Medium\LeetCode011.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\LeetCode235.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
