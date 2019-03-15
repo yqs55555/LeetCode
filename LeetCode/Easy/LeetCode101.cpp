@@ -48,5 +48,9 @@ int main()
 
 
 	std::cout << isSymmetric(root) << std::endl;
+
+	delete root;
+
+	return 0;
 }
 #endif
