@@ -9,7 +9,10 @@ struct TreeNode
 	TreeNode *right;
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
-
+int max(const int a, const int b)
+{
+	return (a > b ? a : b);
+}
 int maxDepth(TreeNode* root) 
 {
 	if(root == nullptr)
@@ -17,7 +20,7 @@ int maxDepth(TreeNode* root)
 		return 0;
 	}
 
-	return std::max(maxDepth(root->left), maxDepth(root->right)) + 1;
+	return max(maxDepth(root->left), maxDepth(root->right)) + 1;
 }
 
 int main()
