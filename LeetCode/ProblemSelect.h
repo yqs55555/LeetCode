@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include <vector>
 static const auto io_sync_off = []()
 {
 	// turn off sync
@@ -8,4 +9,4 @@ static const auto io_sync_off = []()
 	std::cin.tie(nullptr);
 	return nullptr;
 }();
-#define LeetCode111
+#define LeetCode118

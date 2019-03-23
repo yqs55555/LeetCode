@@ -148,6 +148,8 @@
     <ClCompile Include="Easy\LeetCode108.cpp" />
     <ClCompile Include="Easy\LeetCode110.cpp" />
     <ClCompile Include="Easy\LeetCode111.cpp" />
+    <ClCompile Include="Easy\LeetCode112.cpp" />
+    <ClCompile Include="Easy\LeetCode118.cpp" />
     <ClCompile Include="Easy\LeetCode155.cpp" />
     <ClCompile Include="Hard\LeetCode004.cpp" />
     <ClCompile Include="Easy\LeetCode007.cpp" />
